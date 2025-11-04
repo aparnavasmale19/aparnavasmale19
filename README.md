@@ -1,16 +1,22 @@
-## Hi there 👋
+# What is GitHub?
 
-<!--
-**aparnavasmale19/aparnavasmale19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GitHub is a website used to store code online.  
+It helps us to save, share and manage our projects.
 
-Here are some ideas to get you started:
+## Why We Use GitHub
+- To keep our code safe
+- To share code with others
+- To work together in a team
+- To show our projects to interviewers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Simple Example
+GitHub works like Google Drive but for code.
+We create a repository (folder), and upload our project into it.
+
+## What I Am Doing Here
+I am learning how to:
+- Create a repository
+- Upload code
+- Add README file
+
+This is only for learning and practice purpose.
